@@ -1,0 +1,58 @@
+.main
+{
+    background-color: #1c1c1c;
+    height: 678px;
+    width: 1235px;
+   padding: 200px;
+}
+.maindiv 
+{
+    background-color: #1F2937;
+    height: 550px;
+    width: 550px;
+    padding-left: 62px;
+    padding-right: 62px;
+    padding-top: 128px;
+    padding-bottom: 128;
+}
+
+#t1
+{
+    color: white;
+}
+#t2
+{
+    color: #10B981;
+}
+#t3
+{
+    color: white;
+}
+button {
+    background-color: #10B981;
+    color: white;
+    width: 191px;
+    height: 42px;
+    border-radius: 5px;
+}
+#justline {
+    background-color: black;
+    width: 446px;
+    height: 0px;
+}
+.password {
+    display: flex;
+   margin-top: 10px;
+   color: white;
+}
+#password1 {
+    width: 221px;
+    height: 39px;
+    background-color: #273549;
+    margin-right: 5px;
+}
+#password2 {
+    width: 221px;
+    height: 39px;
+    background-color: #273549;
+}
